@@ -1,0 +1,14 @@
+certifi==2020.4.5.2
+colour==0.1.5
+manimlib==0.1.11
+numpy==1.18.5
+opencv-python==4.2.0.34
+Pillow==7.1.2
+progressbar==2.5
+pycairo @ file:///D:/Downloads/pycairo-1.19.1-cp38-cp38-win_amd64.whl
+pydub==0.24.1
+Pygments==2.6.1
+pyreadline==2.1
+scipy==1.4.1
+tqdm==4.46.1
+wincertstore==0.2
