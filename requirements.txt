@@ -3,7 +3,7 @@ colour==0.1.5
 manimlib==0.1.11
 numpy==1.18.5
 opencv-python==4.2.0.34
-Pillow==7.1.2
+Pillow==9.0.1
 progressbar==2.5
 pycairo @ file:///D:/Downloads/pycairo-1.19.1-cp38-cp38-win_amd64.whl
 pydub==0.24.1
